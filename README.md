@@ -1,4 +1,4 @@
-# json-log parser
+# json flattener
 Java module to flatten json-line logs with complex nested elements.
 Also it contains CLI utility for fast transformation json files.
  
